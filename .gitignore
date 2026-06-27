@@ -1,4 +1,5 @@
-venv311/ 
-data/ 
-__pycache__/ 
-debug_*.jpg 
+venv/
+venv311/
+data/
+__pycache__/
+debug_*.jpg
